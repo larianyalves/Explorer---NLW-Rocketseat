@@ -1,4 +1,5 @@
-Projeto desenvolvido ao longo da Trilha Explorer da Rocketseat
+Projeto desenvolvido ao longo da Trilha Explorer da Rocketseat e está disponível no endereço https://larianyalves.github.io/Explorer---NLW-Rocketseat/
+ Acesso ao repositório: https://github.com/larianyalves/Explorer---NLW-Rocketseat
 
 🚀 <h1> tecnologias </h1> 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
